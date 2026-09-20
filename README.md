@@ -1,11 +1,11 @@
 # A/B Testing & Conversion Optimization: Landing Page Causal Inference
 
-## 📌 Executive Summary
+## Executive Summary
 This project evaluates the performance of a new landing page (`treatment`) versus an existing landing page (`control`) across **294,478 user sessions**. By applying statistical hypothesis testing, segmentation analysis, and business impact modeling, this project quantifies the incremental conversion uplift and projects total potential revenue impact.
 
 ---
 
-## 📊 Key Results & Insights
+## Key Results & Insights
 
 * **Baseline Conversion Rates:**
   * **Control (`old_page`):** `11.87%`
@@ -15,7 +15,7 @@ This project evaluates the performance of a new landing page (`treatment`) versu
 
 ---
 
-## 🛠️ Project Architecture & Methodology
+## Project Architecture & Methodology
 
 1. **Data Auditing & Cleaning:**
    * Verified assignment integrity (0 mismatched assignments).
@@ -35,7 +35,7 @@ This project evaluates the performance of a new landing page (`treatment`) versu
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
 * **Visualization:** `matplotlib`, `seaborn`
@@ -43,7 +43,7 @@ This project evaluates the performance of a new landing page (`treatment`) versu
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/
