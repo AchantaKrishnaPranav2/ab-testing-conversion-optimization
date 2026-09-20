@@ -48,7 +48,5 @@ This project evaluates the performance of a new landing page (`treatment`) versu
 ```text
 ├── data/
 │   └── AB_Testing_Data.csv      # Experimental dataset
-├── notebooks/
-│   └── ab_testing_analysis.ipynb # Main Jupyter/Colab notebook
-├── README.md                     # Project overview and executive summary
-└── requirements.txt              # Required Python dependencies
+├── ab_testing_analysis.py       # Main Jupyter/Colab notebook
+├── README.md                    # Project overview and executive summary
